@@ -1,0 +1,8 @@
+{
+  "name": "GoalMind AI - Real Professional",
+  "short_name": "GoalMind AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFF",
+  "theme_color": "#4F46E5"
+}

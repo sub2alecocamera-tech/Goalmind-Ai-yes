@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: goalmind-ai
+    env: static
+    plan: free
+    staticPublishPath: .
